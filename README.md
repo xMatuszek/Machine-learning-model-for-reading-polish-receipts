@@ -1,4 +1,4 @@
-# Model uczenia maszynowego do rozpoznawania paragonów
+# Model uczenia maszynowego do odczytywania polskich paragonów sklepowych
 
 ## 1. Przykładowy cel zastosowania modelu: 
 Możliwość zeskanowania paragonu za pomocą smartfonu w celu wyodrębnienia kluczowych informacji jak np. nazwa sklepu, nazwy produktów, suma.
