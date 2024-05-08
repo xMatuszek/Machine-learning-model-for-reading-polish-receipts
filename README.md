@@ -1,6 +1,6 @@
 # Model uczenia maszynowego do rozpoznawania paragonów
 
-## 1. Nasz cel zastosowania modelu: 
+## 1. Cel zastosowania modelu: 
 Możliwość zeskanowania paragonu za pomocą smartfonu w celu wyodrębnienia kluczowych informacji jak np. nazwa sklepu, nazwy produktów, suma.
 
 ![image](https://github.com/xMatuszek/polish_receipts/assets/45698169/00efab99-73a1-4e88-ba7d-012a63050c0d)
