@@ -1,6 +1,6 @@
 # Model uczenia maszynowego do rozpoznawania paragonów
 
-## 1. Cel zastosowania modelu: 
+## 1. Przykładowy cel zastosowania modelu: 
 Możliwość zeskanowania paragonu za pomocą smartfonu w celu wyodrębnienia kluczowych informacji jak np. nazwa sklepu, nazwy produktów, suma.
 
 ![image](https://github.com/xMatuszek/polish_receipts/assets/45698169/00efab99-73a1-4e88-ba7d-012a63050c0d)
@@ -16,3 +16,7 @@ Obszary paragonu takie jak `top` oraz `bottom` traktujemy jako zbędne. Natomias
 
 ![polish_receipts_process](https://github.com/xMatuszek/polish_receipts/assets/45698169/60a1b1e8-5b8a-4032-89b6-1337e519d8c9)
 
+
+### 3. Aplikacja desktopowa wykorzystująca model:
+
+https://github.com/pangandalf/receipts-data-extraction-app/
