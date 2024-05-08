@@ -17,6 +17,6 @@ Obszary paragonu takie jak `top` oraz `bottom` traktujemy jako zbędne. Natomias
 ![polish_receipts_process](https://github.com/xMatuszek/polish_receipts/assets/45698169/60a1b1e8-5b8a-4032-89b6-1337e519d8c9)
 
 
-### 3. Aplikacja desktopowa wykorzystująca model:
+## 3. Aplikacja desktopowa wykorzystująca model:
 
 https://github.com/pangandalf/receipts-data-extraction-app/
